@@ -1,8 +1,9 @@
 - 👋  Hi there! I'm @PTuliao.
-- I'm a Economics and Management graduate from the University of Portsmouth trying to learn Python
-- 🌱  I'm currently learning Python through the Cisco Programming essentials course 
-and I'm currently enrolled in Harvard's CS50: Introduction to Comp Sci 
-- My career goal is to working within  a Data Science role or a Fintech role
+- I'm a Economics and Management graduate from the University of Portsmouth
+- 🌱  Self-Taught Python using Cisco's Python Progamming essentials and Harvard CS50
+- Currently learning more about data science through IBM courses
+- My career goal is to working within a Data Science role or a Fintech role
+- Looking for entry level roles, open for recruitment!
 - 📫 You can reach me on my email:
      pjtuliao17@gmail.com
 
